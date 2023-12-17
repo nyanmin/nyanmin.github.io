@@ -1,1 +1,1 @@
-# nyanmin.github.io
+Test site for learning PWA development.
